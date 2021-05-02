@@ -7,9 +7,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Root directory for your portfolio. On GitHub Pages, this is the name of your repository.
 baseurl: "/portfolio-template"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
-url: "https://mlh-fellowship.github.io" 
-twitter_username: mlhacks
-github_username: mlh-fellowship
+url: "https://chiragshah2504.github.io/" 
+twitter_username: chiragshah2504
+github_username: chiragshah2504
 form_url: "https://formspree.io/f/xrgodpqo"
 social_image: "./assets/img/social-link.jpg"
 social_image_alt: # Alt text for the link preview image
