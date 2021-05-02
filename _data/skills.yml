@@ -4,44 +4,48 @@
 # Language Section
 - name: Languages
   skills:    
-    - skill: Python
+    - skill: SAP ABAP
       profeciency: Intermediate
-      icon: devicon-python-plain
+      icon: sap.jpg
       
-    - skill: C++
-      profeciency: Beginner
-      icon: devicon-c-plain
-
-    - skill: Java
+    - skill: MySQL
       profeciency: Intermediate
-      icon: devicon-java-plain
+      icon: mysql.png
 
-# frameworks section
-- name: Frameworks
+    - skill: LabView
+      profeciency: Intermediate
+      icon: labview.jpg
+
+# softwares section
+- name: Softwares
   skills:
-    - skill: Flutter
+    - skill: Autodesk Autocad
       profeciency: Intermediate
-      icon: devicon-flutter-plain
+      icon: autocad.png
 
-    - skill: Django
-      profeciency: Advanced
-      icon: devicon-django-plain
+    - skill: Autodesk Inventor
+      profeciency: Intermediate
+      icon: inventor.jpg
       
-    - skill: Express.js
-      profeciency: Beginner
-      icon: devicon-express-original
+    - skill: Solidworks
+      profeciency: Intermediate
+      icon: sw.png
+
+    - skill: ANSYS
+      profeciency: Intermediate
+      icon: ansys.png
 
 # interpersonal section
 - name: Soft Skills
   skills:
     - skill: Communication Skills
-      profeciency: Beginner
-      icon: fas fa-satellite-dish
+      profeciency: Intermediate
+      icon: communication.png
 
     - skill: Presentation Skills
       profeciency: Intermediate
-      icon: fas fa-file-powerpoint
+      icon: ppt.png
 
     - skill: Team Player
-      profeciency: Advanced
-      icon: fas fa-users
+      profeciency: Intermediate
+      icon: team.jpg
